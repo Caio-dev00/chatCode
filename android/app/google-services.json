@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305064454815",
+    "project_id": "chatcode-2bc37",
+    "storage_bucket": "chatcode-2bc37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305064454815:android:2ee26f18d2696c6f8f90aa",
+        "android_client_info": {
+          "package_name": "com.chatcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305064454815-bioeh96cdqk9h102005auu4r8ocehpe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFM6K_AgRyqi2dmOnyt5LQW5eDRtkPYbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305064454815-bioeh96cdqk9h102005auu4r8ocehpe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
